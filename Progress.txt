@@ -1,0 +1,6 @@
+So far:
+Used Groovy CLI builder
+Created Raw templates in groovy src folder
+
+Next:
+Add Spring Raw template

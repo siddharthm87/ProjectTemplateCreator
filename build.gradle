@@ -1,0 +1,13 @@
+apply plugin: 'groovy'
+apply plugin: 'application'
+version = '1.0'
+mainClassName='MainRunner'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.4.10'
+    testCompile 'junit:junit:4.12'
+}
