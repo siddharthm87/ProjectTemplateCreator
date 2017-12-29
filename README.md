@@ -7,3 +7,4 @@ Useful links:
 gradle groovy quick start - https://docs.gradle.org/current/userguide/tutorial_groovy_projects.html
 gradle groovy plugin notes - https://docs.gradle.org/current/userguide/groovy_plugin.html
 Running groovy gradle script - http://mrhaki.blogspot.ca/2014/09/gradle-goodness-running-groovy-scripts.html
+Spring Dependency using Java - https://www.ibm.com/developerworks/library/ws-springjava/index.html
